@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 21 17:48:49 2018
 
-@author: Erluan Felix Batista
+@author: - Erluan Felix Batista
 """
 
 #Simple Linear Regression
